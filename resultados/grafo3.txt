@@ -1,0 +1,34 @@
+O grafo contém 10000 vértices! 
+
+Caminho do Vertice1 - 10 pelo algoritmo de Dijkstra
+
+['1', '2', '3', '3782', '10']
+
+Comprimento:
+
+4
+ 
+Caminho do Vertice1 - 100 pelo algoritmo de Dijkstra
+
+['1', '2', '3', '3782', '3259', '100']
+
+Comprimento:
+
+5
+ 
+Caminho do Vertice1 - 1000 pelo algoritmo de Dijkstra
+
+['1', '2', '3', '7324', '6258', '6257', '999', '1000']
+
+Comprimento:
+
+7
+ 
+Caminho do Vertice1 - 10000 pelo algoritmo de Dijkstra
+
+['1', '10000']
+
+Comprimento:
+
+1
+ 

@@ -1,0 +1,18 @@
+O grafo contém 100 vértices! 
+
+Caminho do Vertice1 - 10 pelo algoritmo de Dijkstra
+
+['1', '100', '8', '10']
+
+Comprimento:
+
+3
+ 
+Caminho do Vertice1 - 100 pelo algoritmo de Dijkstra
+
+['1', '100']
+
+Comprimento:
+
+1
+ 
